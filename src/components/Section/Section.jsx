@@ -8,7 +8,7 @@ function Section({ children }) {
         </section>
     )
 }
-console.log(PropTypes.node)
+
 
 
 Section.propTypes = {
